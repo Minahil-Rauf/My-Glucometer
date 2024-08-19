@@ -23,5 +23,4 @@
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/my-glucometer.git
-cd my-glucometer
+git https://github.com/Minahil-Rauf/My-Glucometer.git
