@@ -4,17 +4,6 @@
 
 **My Glucometer** is a web-based application that predicts whether a patient is diabetic based on input medical attributes. The machine learning model behind the app is trained using Logistic Regression and is deployed using Flask for a seamless user experience.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Features
 
 - Predicts diabetes based on user input data such as glucose levels, BMI, etc.
