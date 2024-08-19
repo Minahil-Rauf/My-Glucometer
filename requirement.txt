@@ -1,0 +1,6 @@
+For Machine Learning model ,required python libraries are:
+   1:sklearn
+   2:matplotlib and seaborn(optional)
+   3:pandas
+   4:Numpy
+For deploying the model,Flask library is required
